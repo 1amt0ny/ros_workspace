@@ -1,0 +1,2 @@
+arm_mediapipe:dofbot_color_identify:dofbot_color_stacking:dofbot_config:dofbot_garbage_yolov5:dofbot_info:dofbot_mediapipe:dofbot_moveit:dofbot_snake_follow:dofbot_visual:yahboomcar_description:yahboomcar_msgs
+-DCATKIN_DEVEL_PREFIX=/home/yahboom/dofbot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/yahboom/dofbot_ws/install -G Unix Makefiles
